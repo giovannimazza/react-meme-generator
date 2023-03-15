@@ -7,12 +7,15 @@ Simple Meme Generator app built with React
 A simple web app generating a random meme image where you can add your own text to it.
 
 ## Example 1
-![image](https://user-images.githubusercontent.com/122443888/225367999-e3275a2b-4325-45ac-b2ab-909f527951cf.png)
-
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/122443888/225367999-e3275a2b-4325-45ac-b2ab-909f527951cf.png" width="420" height="357.5" />
+</p>
  
 ## Example 2
-![image](https://user-images.githubusercontent.com/122443888/225368374-fd99c33c-dd03-4240-8d8a-889048b66f8f.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/122443888/225368374-fd99c33c-dd03-4240-8d8a-889048b66f8f.png" width="412.5" height="357.5" />
+</p>
+ 
 ## Front-End Technologies
 
 * HTML
@@ -34,8 +37,7 @@ A simple web app generating a random meme image where you can add your own text 
 
 Contributors names and contact info
 
-Giovan Battista Mazza
-[@giovannimazza - GitHub](https://github.com/giovannimazza)
+[@giovannimazza - GitHub](https://github.com/giovannimazza) </br>
 [@giovanbattistamazza - Linkedin](https://www.linkedin.com/in/giovanbattistamazza/)
 
 # Course Info
